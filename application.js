@@ -47,8 +47,8 @@ function initializeUserAccount(userName){
     // 商品情報一覧
     const items = [
         new Items("Flip machine", "ability", 500, 15000, 0, 25, "https://cdn.pixabay.com/photo/2019/06/30/20/09/grill-4308709_960_720.png"),
-        new Items("ETF Stock", "investment", "∞", 300000, 0, 0.1, "https://cdn.pixabay.com/photo/2016/03/31/20/51/chart-1296049_960_720.png"),
-        new Items("ETF Bonds", "investment", "∞", 300000, 0, 0.07, "https://cdn.pixabay.com/photo/2016/03/31/20/51/chart-1296049_960_720.png"),
+        new Items("ETF Stock", "investment", Infinity, 300000, 0, 0.1, "https://cdn.pixabay.com/photo/2016/03/31/20/51/chart-1296049_960_720.png"),
+        new Items("ETF Bonds", "investment", Infinity, 300000, 0, 0.07, "https://cdn.pixabay.com/photo/2016/03/31/20/51/chart-1296049_960_720.png"),
         new Items("Lemonade Stand", "realState", 1000, 30000, 0, 30, "https://cdn.pixabay.com/photo/2012/04/15/20/36/juice-35236_960_720.png"),
         new Items("Ice Cream Truck", "realState", 500, 100000, 0, 120, "https://cdn.pixabay.com/photo/2020/01/30/12/37/ice-cream-4805333_960_720.png"),
         new Items("House", "realState", 100, 20000000, 0, 3200, "https://cdn.pixabay.com/photo/2016/03/31/18/42/home-1294564_960_720.png"),
