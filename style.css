@@ -1,0 +1,41 @@
+body {
+    font-family: "Gill Sans", sans-serif;
+    background-color: rgb(23, 79, 113);
+}
+
+h1 {
+    font-weight: bold;
+}
+
+.menu-bg {
+    background-color: rgb(111, 190, 243);
+}
+
+#initialPage {
+    font-family: 'DotGothic16', sans-serif;
+}
+
+#burger {
+    width: 85%;
+    padding: 10px;
+}
+
+.scroll-wrap {
+    overflow: scroll;
+    height: 82%;
+}
+
+#reset, #save {
+    height: 45px;
+    width: 45px;
+}
+
+.border-wrap {
+    padding: 5px;
+    border: thick double rgb(41, 173, 221);
+}
+
+.select-animation:hover{
+    box-shadow: 0 5px 10px gray;
+    transform: translateY(-0.1875em);
+}
