@@ -57,7 +57,7 @@ const items = [
     new Items("Bulet-Speed Sky Railway", "realState", 1, 10000000000000, 0, 30000000000, "https://cdn.pixabay.com/photo/2013/07/13/10/21/train-157027_960_720.png")
 ]
 
-// 最初に実行される関数
+// インスタンスを作成
 function initializeUserAccount(userName){
     if(userName == "toshiki"){
         return new UserAccount(userName, 20, 0, 500000, items);
