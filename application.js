@@ -42,6 +42,7 @@ class Items {
     }
     
 }
+
 // 商品情報
 const items = [
     new Items("Flip machine", "ability", 500, 15000, 0, 25, "https://cdn.pixabay.com/photo/2019/06/30/20/09/grill-4308709_960_720.png"),
