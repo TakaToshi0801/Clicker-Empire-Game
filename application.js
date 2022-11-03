@@ -40,7 +40,6 @@ class Items {
         this.incomeRate = incomeRate;
         this.url = url;
     }
-    
 }
 
 // 商品情報
