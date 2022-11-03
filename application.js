@@ -42,7 +42,7 @@ class Items {
     }
 }
 
-// 商品情報
+// 商品情報一覧
 const items = [
     new Items("Flip machine", "ability", 500, 15000, 0, 25, "https://cdn.pixabay.com/photo/2019/06/30/20/09/grill-4308709_960_720.png"),
     new Items("ETF Stock", "investment", Infinity, 300000, 0, 0.1, "https://cdn.pixabay.com/photo/2016/03/31/20/51/chart-1296049_960_720.png"),
