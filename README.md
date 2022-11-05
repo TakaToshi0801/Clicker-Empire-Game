@@ -1,6 +1,6 @@
 # Clicker-Empire-Game
 ## Description
-コンピュータサイエンス学習サービスの**Recursion**のProject3で作成した「Clicker Empire Game」というシミュレーションゲームです。
+コンピュータサイエンス学習サービスの**Recursion**のProject3で作成した「Clicker Empire Game」というシミュレーションゲームです。  
 ゲームの設定のみが与えられ、０から作成しました。  
 仕事や投資、不動産等でお金を稼ぎ、一攫千金を目指しましょう！
 <img width="1440" alt="スクリーンショット 2022-11-03 21 29 53" src="https://user-images.githubusercontent.com/102214195/199720787-effaabed-53d6-4b90-ad64-b3198f52114c.png">
